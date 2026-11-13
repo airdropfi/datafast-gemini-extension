@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "datafast": {
+      "serverUrl": "https://datafast.app/api/mcp"
+    }
+  }
+}

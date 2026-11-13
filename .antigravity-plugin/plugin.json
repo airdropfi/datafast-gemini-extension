@@ -1,0 +1,27 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "datafast",
+  "displayName": "DataFast",
+  "version": "1.0.0",
+  "description": "DataFast is revenue-first web analytics: it shows which traffic sources, campaigns and pages bring paying customers, and an AI assistant can read those numbers for you over MCP. Read-only access you approve and can revoke.",
+  "logo": "assets/icon.png",
+  "suggestedPrompts": [
+    "Which traffic sources brought the most revenue in the last 30 days?",
+    "How many visitors did my site get last week?",
+    "What are my top 10 pages this month?"
+  ],
+  "author": {
+    "name": "DataFast",
+    "url": "https://datafast.app"
+  },
+  "homepage": "https://datafast.app/mcp",
+  "repository": "https://github.com/airdropfi/datafast-gemini-extension",
+  "license": "MIT",
+  "keywords": [
+    "analytics",
+    "web-analytics",
+    "revenue-attribution",
+    "mcp",
+    "datafast"
+  ]
+}

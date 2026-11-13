@@ -1,0 +1,11 @@
+{
+  "name": "datafast",
+  "version": "1.0.0",
+  "description": "DataFast is revenue-first web analytics: it shows which traffic sources, campaigns and pages bring paying customers, and an AI assistant can read those numbers for you over MCP. Read-only access you approve and can revoke.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "datafast": {
+      "httpUrl": "https://datafast.app/api/mcp"
+    }
+  }
+}
